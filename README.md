@@ -24,6 +24,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aadrito-datta-00668b249"><img src="https://img.shields.io/badge/-Manas%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aadrito-datta-00668b249"><img src="https://img.shields.io/badge/-Aadrito%20Datta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aadrito.datta@gmail.com"><img src="https://img.shields.io/badge/-aadrito.datta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
